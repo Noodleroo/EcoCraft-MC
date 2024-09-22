@@ -1,5 +1,7 @@
 
---A mod for the server EcoCraft (EconomyCraft)--
+--A mod for the server EcoCraft (EconomyCraft)
+
+Planning on making a shop and API in the future--
 
 
 Source installation information for modders
